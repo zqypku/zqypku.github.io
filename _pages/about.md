@@ -18,6 +18,8 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 ## What's New
 
+[February 2025] I became a reviewer of [ARR February 2025](https://aclrollingreview.org/)!
+
 [January 2025] I became a reviewer of [KDD 2025](https://kdd2025.kdd.org/)!
 
 [December 2024] I became a reviewer of [ICLR FPI Workshop 2025](https://sites.google.com/view/fpiworkshop/about)!
@@ -103,7 +105,7 @@ Winter term 2023/2024
 
 - **Program Commitee Member:** [NeurIPS CaLM 2024](https://calm-workshop-2024.github.io/), [NeurIPS AFME 2024](https://www.afciworkshop.org/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
 - **Artifact Evaluation Commitee Member:** [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts)
-- **Invited Reviewer:** [KDD 2025](https://kdd2025.kdd.org/), [ICLR FPI Workshop 2025](https://sites.google.com/view/fpiworkshop/about), [NeurIPS UniReps Workshop 2024](https://unireps.org/2024/), [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024), [TOPS](https://dl.acm.org/journal/tops), [TKDD](https://dl.acm.org/journal/tkdd), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)
+- **Invited Reviewer:** [ARR February 2025](https://aclrollingreview.org/), [KDD 2025](https://kdd2025.kdd.org/), [ICLR FPI Workshop 2025](https://sites.google.com/view/fpiworkshop/about), [NeurIPS UniReps Workshop 2024](https://unireps.org/2024/), [NeurIPS WiML Workshop 2024](https://sites.google.com/wimlworkshop.org/wiml-2024), [TOPS](https://dl.acm.org/journal/tops), [TKDD](https://dl.acm.org/journal/tkdd), [ICML SPIGM Workshop 2024](https://spigmworkshop2024.github.io/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)
 - **Secondary Reviewer:** [ICICS 2023](https://icics23.nankai.edu.cn/)
 
 
