@@ -20,7 +20,7 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 [February 2025] I became a reviewer of [ARR February 2025](https://aclrollingreview.org/)!
 
-[January 2025] Our paper titled *Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications* [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/), see the website for more details!
+[January 2025] Our paper titled *Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications* was accepted by [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/), see the website for more details!
 
 [January 2025] I became a reviewer of [KDD 2025](https://kdd2025.kdd.org/)!
 
