@@ -20,6 +20,8 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 [February 2025] I became a reviewer of [ARR February 2025](https://aclrollingreview.org/)!
 
+[January 2025] Our paper titled *Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications* [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/), see the website for more details!
+
 [January 2025] I became a reviewer of [KDD 2025](https://kdd2025.kdd.org/)!
 
 [December 2024] I became a reviewer of [ICLR FPI Workshop 2025](https://sites.google.com/view/fpiworkshop/about)!
@@ -67,6 +69,14 @@ Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center
 
 ## Publications
 (\*: Equal Contribution)
+
+2025
+
+- <span style="color:rgb(0, 119, 181)">Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications.</span><br/>Yixin Wu, **Ziqing Yang**, Yun Shen, Michael Backes, Yang Zhang. In Proceedings of the 34th USENIX Security Symposium (USENIX Security 25), 2025. <br/>[paper](https://arxiv.org/abs/2502.00808) [code](https://github.com/TrustAIRLab/synthetic_artifact_auditing) [website](https://yxoh.github.io/papers/usenix25a/)
+
+- <span style="color:rgb(0, 119, 181)">The Challenge of Identifying the Origin of Black-Box Large Language Models.</span><br/>**Ziqing Yang**, Yixin Wu, Yun Shen, Wei Dai, Michael Backes, Yang Zhang. arXiv preprint arXiv:2503.04332, 2025. <br/>[paper](https://arxiv.org/abs/2503.04332)
+
+- <span style="color:rgb(0, 119, 181)">Peering Behind the Shield: Guardrail Identification in Large Language Models.</span><br/>**Ziqing Yang**, Yixin Wu, Rui Wen, Michael Backes, Yang Zhang. arXiv preprint arXiv:2502.01241, 2025. <br/>[paper](https://arxiv.org/abs/2502.01241)
 
 2024
 
