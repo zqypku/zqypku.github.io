@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Ziqing Yang, a second-year PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from [Peking University](http://english.pku.edu.cn/), advised by [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/).
+Hello! This is Ziqing Yang, a third-year PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my Bachelor’s degree from [Peking University](http://english.pku.edu.cn/), advised by [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). Further, I was a research intern at [UCLA](https://www.ucla.edu/) under the supervision of [Prof. Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), where I focused on the logical rules and knowledge graphs.
 
 ## Research Interest
 
