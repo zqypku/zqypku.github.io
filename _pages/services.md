@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-#### Teaching Assistant
+### teaching assistant
 - Winter term 2025/2026
   - [AI Safety](https://cms.cispa.saarland/ais25/) (Graduate, Saarland University)
 - Summer term 2025
@@ -21,7 +21,7 @@ nav_order: 2
   - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University)
 
 
-#### Services
+### peer review
 
 - **Program Commitee Member:** [NeurIPS CaLM 2024](https://calm-workshop-2024.github.io/), [NeurIPS AFME 2024](https://www.afciworkshop.org/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
 - **Artifact Evaluation Commitee Member:** [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts)
