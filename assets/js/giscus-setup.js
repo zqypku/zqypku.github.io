@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "zqypku/jubilant-octo-invention",
+    "data-repo": "zqypku/zqypku.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
