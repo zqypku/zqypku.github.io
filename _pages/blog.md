@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: archive
 permalink: /blog/
 title: blog
-nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true
