@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled *Comprehensive Assessment of Jailbreak Attacks Against LLMs* was accepted by [ACL 2025](https://2025.aclweb.org/)!
+Our paper titled _Comprehensive Assessment of Jailbreak Attacks Against LLMs_ was accepted by [ACL 2025](https://2025.aclweb.org/)!

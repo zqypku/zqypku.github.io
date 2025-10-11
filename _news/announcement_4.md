@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper named *SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models* was accepted by [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!
+Our paper named _SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models_ was accepted by [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/)!

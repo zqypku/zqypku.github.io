@@ -35,7 +35,7 @@ announcements:
 ---
 
 This is Ziqing Yang, a third-year PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/).
-My research focuses on trustworthy machine learning, with a particular interest in exploring the security and safety risks in generative AIs and agents. 
+My research focuses on trustworthy machine learning, with a particular interest in exploring the security and safety risks in generative AIs and agents.
 
 Before that, I obtained my Bachelor’s degree from [Peking University](http://english.pku.edu.cn/).
 Advised by [Prof. Ming Zhang](https://scholar.google.com/citations?user=LbzoQBsAAAAJ), I focused on knowledge representation and graph analysis.

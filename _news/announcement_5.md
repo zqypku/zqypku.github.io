@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled *Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications* was accepted by [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/)!
+Our paper titled _Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications_ was accepted by [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/)!

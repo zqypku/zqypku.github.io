@@ -2,12 +2,13 @@
 layout: page
 permalink: /services/
 title: services
-description: 
+description:
 nav: true
 nav_order: 2
 ---
 
 #### teaching assistant
+
 - Winter term 2025/2026
   - [AI Safety](https://cms.cispa.saarland/ais25/) (Graduate, Saarland University)
 - Summer term 2025
@@ -19,7 +20,6 @@ nav_order: 2
   - [Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2024/) (Graduate, Saarland University)
 - Winter term 2023/2024
   - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University)
-
 
 #### peer review
 

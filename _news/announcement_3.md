@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper named *Data Poisoning Attacks Against Multimodal Encoders* was accepted by [ICML 2023](https://icml.cc/Conferences/2023)!
+Our paper named _Data Poisoning Attacks Against Multimodal Encoders_ was accepted by [ICML 2023](https://icml.cc/Conferences/2023)!
