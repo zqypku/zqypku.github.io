@@ -11,14 +11,33 @@ toc:
 paper_url: https://arxiv.org/abs/2502.01241
 # code_url:
 venue: "AAAI 2026 TrustAgent Workshop & AICS Workshop"
+_styles: |
+  .post-header {
+    text-align: center;
+  }
+  .paper-header {
+    text-align: center;
+    margin: 2em 0;
+  }
 ---
 
-**Ziqing Yang**<sup>1</sup>, **Yixin Wu**<sup>1</sup>, **Rui Wen**<sup>2</sup>, **Michael Backes**<sup>1</sup>, **Yang Zhang**<sup>1</sup>
-
-<sup>1</sup>CISPA Helmholtz Center for Information Security
-<sup>2</sup>Institute of Science Tokyo
-
-**{{ page.venue }}**
+<div class="paper-header">
+  <div style="text-align: center; margin-bottom: 1em;">
+    <strong>Ziqing Yang<sup>1</sup>, Yixin Wu<sup>1</sup>, Rui Wen<sup>2</sup>, Michael Backes<sup>1</sup>, Yang Zhang<sup>1</sup></strong>
+  </div>
+  
+  <div style="text-align: center; margin-bottom: 0.5em;">
+    <sup>1</sup>CISPA Helmholtz Center for Information Security
+  </div>
+  
+  <div style="text-align: center; margin-bottom: 1em;">
+    <sup>2</sup>Institute of Science Tokyo
+  </div>
+  
+  <div style="text-align: center; margin-top: 1em;">
+    {{ page.venue }}
+  </div>
+</div>
 
 ## Resources
 
@@ -53,6 +72,8 @@ Despite their importance, guardrails are treated as black-box components, and ex
 
 ## Main Contributions
 
+This work makes the following key contributions:
+
 - First formulation of the guardrail identification problem
 - AP-Test: a novel guardrail identification framework
 - Unified identification of input and output guardrails
@@ -66,16 +87,6 @@ AP-Test identifies guardrails in two phases:
 - Adversarial Prompt Optimization
 - Adversarial Prompt Testing
 
-The core idea is to generate prompts that are unsafe for one specific guardrail while remaining safe for all others, then observe how a black-box AI agent responds.
-
-## Results
-
-AP-Test achieves perfect identification performance across a wide range of settings:
-
-- Candidate Guardrails: WildGuard, LlamaGuard, LlamaGuard2, LlamaGuard3
-- Base LLMs: Llama 3.1, GPT-4o
-- Deployment Modes: Input guard, output guard, and combined input–output guards
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/1_guard/overview.png" title="Overview of an AI agent" class="img-fluid rounded z-depth-1" %}
@@ -88,7 +99,17 @@ AP-Test achieves perfect identification performance across a wide range of setti
     Left: Overview of an AI agent. Right: Framework of our AP-Test.
 </div>
 
-#### Key Findings
+The core idea is to generate prompts that are unsafe for one specific guardrail while remaining safe for all others, then observe how a black-box AI agent responds.
+
+## Results
+
+AP-Test achieves perfect identification performance across a wide range of settings:
+
+- Candidate Guardrails: WildGuard, LlamaGuard, LlamaGuard2, LlamaGuard3
+- Base LLMs: Llama 3.1, GPT-4o
+- Deployment Modes: Input guard, output guard, and combined input–output guards
+
+Below are the key findings from our experiments:
 
 - 100% classification accuracy and AUC = 1.00 for both input and output guard tests
 - Robust to safety-aligned LLM behavior and additional guardrails
@@ -114,7 +135,6 @@ If you find this work useful, please cite:
   booktitle = {The AAAI Workshop on Artificial Intelligence for Cyber Security (AICS)},
   publisher = {AAAI},
   arxiv = {2502.01241},
-  pdf = {https://openreview.net/pdf?id=4lwwnbpkos},
   year = {2026}
 }
 ```
