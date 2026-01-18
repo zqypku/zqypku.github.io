@@ -1,0 +1,6 @@
+author$title$venue$year$arxiv$pdf$code$website$slides
+Weiping Song and Zhijian Duan and Ziqing Yang and Hao Zhu and Ming Zhang and Jian Tang$Explainable knowledge graph-based recommendation via deep reinforcement learning$CoRR abs/1906.09506$2019$1906.09506$https://github.com/DeepGraphLearning/RecommenderSystems$$$
+Ziqing Yang and Zeyang Sha and Michael Backes and Yang Zhang$From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need$CoRR abs/2303.05266$2023$2303.05266$$$$
+Ziqing Yang and Michael Backes and Yang Zhang and Ahmed Salem$SOS! Soft Prompt Attack Against Open-Source Large Language Models$CoRR abs/2407.03160$2024$2407.03160$$$$
+Ziqing Yang and Yixin Wu and Yun Shen and Wei Dai and Michael Backes and Yang Zhang$The Challenge of Identifying the Origin of Black-Box Large Language Models$CoRR abs/2503.04332$2025$2503.04332$$$$
+Junjie Chu and Mingjie Li and Ziqing Yang and Ye Leng and Chenhao Lin and Chao Shen and Michael Backes and Yun Shen and Yang Zhang$JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring$CoRR abs/2508.20848$2025$2508.20848$$$$
