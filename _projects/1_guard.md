@@ -1,15 +1,15 @@
 ---
 layout: page
 title: "Peering Behind the Shield: Guardrail Identification in Large Language Models"
-description: 
-img: 
+description:
+img:
 importance: 1
 category: work
 related_publications: false
 toc:
   beginning: true
 paper_url: https://arxiv.org/abs/2502.01241
-# code_url: 
+# code_url:
 venue: "AAAI 2026 TrustAgent Workshop & AICS Workshop"
 ---
 
@@ -26,12 +26,11 @@ venue: "AAAI 2026 TrustAgent Workshop & AICS Workshop"
 
 ## Contents
 
-* [Motivation](#motivation)
-* [Main Contributions](#main-contributions)
-* [Method](#method)
-* [Results](#results)
-* [Citation](#citation)
-
+- [Motivation](#motivation)
+- [Main Contributions](#main-contributions)
+- [Method](#method)
+- [Results](#results)
+- [Citation](#citation)
 
 ## Motivation
 
@@ -40,7 +39,8 @@ AI agents rely on safety guardrails to block harmful behavior. In practice, thes
 An attacker without this knowledge is like someone trying to break into a house without knowing the key, so that attacks are inefficient and unreliable. Once the guardrail is identified, however, guard-specific attacks become far more effective.
 
 Despite their importance, guardrails are treated as black-box components, and existing model identification methods fail to reveal them. This raises a key question:
-* Can we identify the guardrail deployed inside a black-box AI agent?
+
+- Can we identify the guardrail deployed inside a black-box AI agent?
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -51,30 +51,30 @@ Despite their importance, guardrails are treated as black-box components, and ex
     An attacker who does not know the guardrail is like someone trying to break into a house without knowing the key.
 </div>
 
-
 ## Main Contributions
 
-* First formulation of the guardrail identification problem
-* AP-Test: a novel guardrail identification framework
-* Unified identification of input and output guardrails
-* Match Score: a principled decision metric
-* Extensive empirical validation
+- First formulation of the guardrail identification problem
+- AP-Test: a novel guardrail identification framework
+- Unified identification of input and output guardrails
+- Match Score: a principled decision metric
+- Extensive empirical validation
 
 ## Method
 
 AP-Test identifies guardrails in two phases:
-* Adversarial Prompt Optimization
-* Adversarial Prompt Testing
+
+- Adversarial Prompt Optimization
+- Adversarial Prompt Testing
 
 The core idea is to generate prompts that are unsafe for one specific guardrail while remaining safe for all others, then observe how a black-box AI agent responds.
-
 
 ## Results
 
 AP-Test achieves perfect identification performance across a wide range of settings:
-* Candidate Guardrails: WildGuard, LlamaGuard, LlamaGuard2, LlamaGuard3
-* Base LLMs: Llama 3.1, GPT-4o
-* Deployment Modes: Input guard, output guard, and combined input–output guards
+
+- Candidate Guardrails: WildGuard, LlamaGuard, LlamaGuard2, LlamaGuard3
+- Base LLMs: Llama 3.1, GPT-4o
+- Deployment Modes: Input guard, output guard, and combined input–output guards
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -90,10 +90,10 @@ AP-Test achieves perfect identification performance across a wide range of setti
 
 #### Key Findings
 
-* 100% classification accuracy and AUC = 1.00 for both input and output guard tests
-* Robust to safety-aligned LLM behavior and additional guardrails
-* Successfully identifies derivative guardrails (e.g., fine-tuned variants)
-* Ablation studies confirm the necessity of each method component
+- 100% classification accuracy and AUC = 1.00 for both input and output guard tests
+- Robust to safety-aligned LLM behavior and additional guardrails
+- Successfully identifies derivative guardrails (e.g., fine-tuned variants)
+- Ablation studies confirm the necessity of each method component
 
 These results demonstrate that AP-Test provides a practical and reliable path toward understanding and auditing real-world AI safety mechanisms.
 
