@@ -1,4 +1,5 @@
 # easy-bib
+
 This is a python script to generate nice bibtex file for latex.
 
 ## Usage
@@ -10,6 +11,7 @@ To run it, you need to
 - the resulting .bib is normal_generated.bib
 
 To run a python3 version, you need to
+
 - add the bib item you want into conference.txt, journal.txt, arxiv.txt or book.txt
 - `python3 py3-easy-bib.py normal`
 - the resulting .bib is normal_generated_py3.bib
