@@ -320,7 +320,7 @@ def build_bib(mode='normal'):
         f.close()
 
 
-mode = "homepage_normal"
+mode = "../_bibliography/normal"
 
 if os.path.exists(mode+save_suffix):
     os.remove(mode+save_suffix)
