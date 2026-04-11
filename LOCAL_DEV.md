@@ -26,7 +26,12 @@
    - The site will automatically rebuild (watch the terminal for updates)
    - Refresh your browser to see changes
 
-5. **Stop the server:**
+5. **Check Prettier:**
+
+   - run `npx prettier . --write`
+   - then run `npx prettier . --check` for double-check
+
+6. **Stop the server:**
    - Press `Ctrl+C` in the terminal
 
 ## Alternative: Using Docker with Slim Image (Smaller Size)
