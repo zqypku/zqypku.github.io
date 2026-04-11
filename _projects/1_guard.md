@@ -9,8 +9,8 @@ related_publications: false
 toc:
   beginning: true
 paper_url: https://arxiv.org/abs/2502.01241
-# code_url:
-venue: "AAAI 2026 TrustAgent Workshop & AICS Workshop"
+code_url: https://github.com/TrustAIRLab/AP-Test
+venue: "ACL 2026"
 _styles: |
   .post-header {
     text-align: center;
@@ -132,9 +132,8 @@ If you find this work useful, please cite:
 @inproceedings{YWWBZ26,
   author = {Ziqing Yang and Yixin Wu and Rui Wen and Michael Backes and Yang Zhang},
   title = {Peering Behind the Shield: Guardrail Identification in Large Language Models},
-  booktitle = {The AAAI Workshop on Artificial Intelligence for Cyber Security (AICS)},
-  publisher = {AAAI},
-  arxiv = {2502.01241},
+  booktitle = {Annual Meeting of the Association for Computational Linguistics (ACL)},
+  publisher = {ACL},
   year = {2026}
 }
 ```

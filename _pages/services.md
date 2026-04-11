@@ -9,6 +9,8 @@ nav_order: 2
 
 #### teaching assistant
 
+- Summer term 2026
+  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude26/) (Graduate, Saarland University)
 - Winter term 2025/2026
   - [AI Safety](https://cms.cispa.saarland/ais25/) (Graduate, Saarland University)
 - Summer term 2025
@@ -24,10 +26,10 @@ nav_order: 2
 #### peer review
 
 - Program Commitee Member:
-  - Conferences: [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+  - Conferences: [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
   - Workshops: [NeurIPS CaLM 2024](https://calm-workshop-2024.github.io/), [NeurIPS AFME 2024](https://www.afciworkshop.org/)
 - Artifact Evaluation Commitee Member:
-  - Conferences: [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts)
+  - Conferences: [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26), [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)
 - Invited Reviewer:
   - Conferences: [ICLR 2026](https://iclr.cc/Conferences/2026), [SIGKDD 2026](https://kdd2026.kdd.org/), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [ICCV 2025](https://iccv.thecvf.com/), [ARR](https://aclrollingreview.org/), [SIGKDD 2025](https://kdd2025.kdd.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)
   - Journals: [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [TOPS](https://dl.acm.org/journal/tops), [TKDD](https://dl.acm.org/journal/tkdd)
