@@ -418,4 +418,40 @@ ICSAT$IEEE Communications Surveys and Tutorials
 FSE$ACM International Conference on the Foundations of Software Engineering
 MobileHCI$Human Computer Interaction with Mobile Devices and Services
 RTSI$IEEE International Forum on Research and Technologies for Society and Industry Leveraging a better tomorrow
-AICS$The AAAI Workshop on Artificial Intelligence for Cyber Security
+ISRE$IEEE International Symposium on Requirements Engineering
+GOM$Group \& Organization Management
+AMR$Academy of Management Review
+JASP$Journal of Applied Social Psychology
+JAP$Journal of Applied Psychology
+JBE$Journal of Business Ethics
+HR$Human Relations
+EHB$Evolution and Human Behavior
+JBP$Journal of Business and Psychology
+FP$Frontiers in Psychology
+JM$Journal of Management
+IJHM$International Journal of Hospitality Management
+JOB$Journal of Organizational Behavior
+RGP$Review of General Psychology
+PSPB$Personality and Social Psychology Bulletin
+JCCP$Journal of Consulting and Clinical Psychology
+IJHRM$The International Journal of Human Resource Management
+NHB$Nature Human Behaviour
+CP$Communications Psychology
+SA$Science Advances
+SHPTA$The SAGE Handbook of Personality Theory and Assessment
+JPB$Journal of Pharmacokinetics and Biopharmaceutics
+ACL Findings$Findings of the Association for Computational Linguistics: ACL
+EMNLP Findings$Findings of the Association for Computational Linguistics: EMNLP
+EACL Findings$Findings of the Association for Computational Linguistics: EACL
+AACL Findings$Findings of the Association for Computational Linguistics: AACL
+NAACL Findings$Findings of the Association for Computational Linguistics: NAACL
+DMSCRR$Diabetes \& Metabolic Syndrome: Clinical Research \& Reviews
+BDM$BioData Mining
+BCM$Biochemia Medica
+BMCMRM$BMC Medical Research Methodology
+BRM$Behavior Research Methods
+IJCL$International Journal of Corpus Linguistics
+CLEF$International Conference of the Cross-Language Evaluation Forum for European Languages
+CAMLIS$Conference on Applied Machine Learning in Information Security
+COLM$Conference on Language Modeling
+PrivateNLP$Workshop on Privacy in Natural Language Processing
