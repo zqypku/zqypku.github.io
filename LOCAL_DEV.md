@@ -10,6 +10,8 @@
 
 2. **Pull and start the Docker container:**
 
+   First open Docker and wait for it to start, then run:
+
    ```bash
    docker compose pull
    docker compose up
