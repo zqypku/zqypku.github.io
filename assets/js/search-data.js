@@ -396,7 +396,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-papers-peering-behind-the-shield-guardrail-identification-in-large-language-models-and-peercheck-enhancing-llm-generated-academic-reviews-towards-human-level-quality-were-accepted-by-acl-findings-2026",
           title: 'Our papers Peering Behind the Shield: Guardrail Identification in Large Language Models and...',
           description: "",
-          section: "News",},{id: "news-our-paper-the-challenge-of-identifying-the-origin-of-black-box-large-language-models-was-accepted-by-acl-2026-workshop-privatenlp",
+          section: "News",},{id: "news-our-paper-the-challenge-of-identifying-the-origin-of-black-box-large-language-models-was-accepted-by-acl-2026-privatenlp-workshop",
           title: 'Our paper The Challenge of Identifying the Origin of Black-Box Large Language Models...',
           description: "",
           section: "News",},{id: "news-our-paper-badbone-backdoor-attacks-against-backbone-models-in-visual-prompt-learning-was-accepted-by-ieee-transactions-on-information-forensics-amp-amp-security",
