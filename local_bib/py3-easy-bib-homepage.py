@@ -159,6 +159,21 @@ def build_bib(mode='normal'):
         if type(journal.loc[i, 'publisher'])!=float:
             f.write("publisher = {"+journal.loc[i, 'publisher']+"},")
             f.write('\n')
+        if pd.notna(journal.loc[i, 'arxiv']):
+            f.write("arxiv = {"+str(journal.loc[i, 'arxiv'])+"},")
+            f.write('\n')
+        if pd.notna(journal.loc[i, 'pdf']):
+            f.write("pdf = {"+journal.loc[i, 'pdf']+"},")
+            f.write('\n')
+        if pd.notna(journal.loc[i, 'code']):
+            f.write("code = {"+journal.loc[i, 'code']+"},")
+            f.write('\n')
+        if pd.notna(journal.loc[i, 'website']):
+            f.write("website = {"+journal.loc[i, 'website']+"},")
+            f.write('\n')
+        if pd.notna(journal.loc[i, 'slides']):
+            f.write("slides = {"+journal.loc[i, 'slides']+"},")
+            f.write('\n')
         # year
         f.write("year = {"+str(journal.loc[i, 'year'])+"}")
         f.write('\n')
