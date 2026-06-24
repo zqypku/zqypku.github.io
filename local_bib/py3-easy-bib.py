@@ -43,8 +43,12 @@ def build_bib(mode='normal'):
         f.write("@inproceedings{"+ref_key+',')
         f.write('\n')
         # author
-        f.write("author = {"+conference.loc[i, 'author']+"},")
-        f.write('\n')
+        authors = conference.loc[i, 'author']
+        target = "Ziqing Yang"  # 想要加粗的作者名
+        authors_bib = authors.replace(target, r"\underline{" + target + "}")
+        f.write("author = {" + authors_bib + "},\n")
+        # f.write("author = {"+conference.loc[i, 'author']+"},")
+        # f.write('\n')
         # title
         f.write("title = {{"+conference.loc[i, 'title']+"}},")
         f.write('\n')

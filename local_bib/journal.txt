@@ -1,2 +1,2 @@
 author$title$venue$volume$number$pages$publisher$year$arxiv$pdf$code$website$slides
-Ziqing Yang and Rui Wen and Xinlei He and Yun Shen and Michael Backes and Yang Zhang$BadBone: Backdoor Attacks Against Backbone Models in Visual Prompt Learning$TIFS$$$$IEEE$2026$$$https://github.com/TrustAIRLab/BadBone$$
+Ziqing Yang and Rui Wen and Xinlei He and Yun Shen and Michael Backes and Yang Zhang$BadBone: Backdoor Attacks Against Backbone Models in Visual Prompt Learning$TIFS$$$$IEEE$2026$2605.31246$$https://github.com/TrustAIRLab/BadBone$$
