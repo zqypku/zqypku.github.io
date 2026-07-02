@@ -248,6 +248,10 @@
   <script async defer src="https://openpanel.dev/op1.js"></script>
 {% endif %}
 
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0a4b7420e70344998b6b8747cece2313"}'></script>
+<!-- End Cloudflare Web Analytics -->
+
 {% if site.enable_progressbar %}
   <!-- Scrolling Progress Bar -->
   <script defer src="{{ '/assets/js/progress-bar.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
