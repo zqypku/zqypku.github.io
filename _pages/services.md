@@ -26,7 +26,7 @@ nav_order: 2
 #### peer review
 
 - Program Commitee Member:
-  - Conferences: [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+  - Conferences: [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/), [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
   - Workshops: [NeurIPS CaLM 2024](https://calm-workshop-2024.github.io/), [NeurIPS AFME 2024](https://www.afciworkshop.org/)
 - Artifact Evaluation Commitee Member:
   - Conferences: [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26), [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)
