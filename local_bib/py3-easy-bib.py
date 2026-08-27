@@ -45,7 +45,7 @@ def build_bib(mode='normal'):
         # author
         authors = conference.loc[i, 'author']
         target = "Ziqing Yang"  # 想要加粗的作者名
-        authors_bib = authors.replace(target, r"\underline{" + target + "}")
+        authors_bib = authors.replace(target, r"\textbf{" + target + "}")
         f.write("author = {" + authors_bib + "},\n")
         # f.write("author = {"+conference.loc[i, 'author']+"},")
         # f.write('\n')
@@ -121,7 +121,7 @@ def build_bib(mode='normal'):
         # author
         authors = journal.loc[i, 'author']
         target = "Ziqing Yang"  # 想要加粗的作者名
-        authors_bib = authors.replace(target, r"\underline{" + target + "}")
+        authors_bib = authors.replace(target, r"\textbf{" + target + "}")
         f.write("author = {" + authors_bib + "},\n")
 
         # f.write("author = {"+journal.loc[i, 'author']+"},")
@@ -179,7 +179,7 @@ def build_bib(mode='normal'):
         # author
         authors = arxiv.loc[i, 'author']
         target = "Ziqing Yang"  # 想要加粗的作者名
-        authors_bib = authors.replace(target, r"\underline{" + target + "}")
+        authors_bib = authors.replace(target, r"\textbf{" + target + "}")
         f.write("author = {" + authors_bib + "},\n")
         # f.write("author = {"+arxiv.loc[i, 'author']+"},")
         # f.write('\n')
@@ -218,7 +218,7 @@ def build_bib(mode='normal'):
         # author
         authors = book.loc[i, 'author']
         target = "Ziqing Yang"  # 想要加粗的作者名
-        authors_bib = authors.replace(target, r"\underline{" + target + "}")
+        authors_bib = authors.replace(target, r"\textbf{" + target + "}")
         f.write("author = {" + authors_bib + "},\n")
         # f.write("author = {"+book.loc[i, 'author']+"},")
         # f.write('\n')
@@ -256,7 +256,7 @@ def build_bib(mode='normal'):
         authors = website.loc[i, 'author']
         if authors:
             target = "Ziqing Yang"  # 想要加粗的作者名
-            authors_bib = authors.replace(target, r"\underline{" + target + "}")
+            authors_bib = authors.replace(target, r"\textbf{" + target + "}")
             f.write("author = {" + authors_bib + "},\n")
         # author = website.loc[i, 'author']
         # if author is not None and author == author:
