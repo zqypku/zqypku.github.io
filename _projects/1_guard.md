@@ -10,7 +10,7 @@ toc:
   beginning: true
 paper_url: https://arxiv.org/abs/2502.01241
 code_url: https://github.com/TrustAIRLab/AP-Test
-venue: "ACL 2026"
+venue: "ACL Findings 2026"
 _styles: |
   .post-header {
     text-align: center;

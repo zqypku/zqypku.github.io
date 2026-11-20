@@ -188,6 +188,17 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  # unused al-folio template pages (kept in the repo, not published)
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/cv.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _books/
+  - _posts/
+  - _projects/archive/
   - purgecss.config.js
   - README.md
   - readme_preview/

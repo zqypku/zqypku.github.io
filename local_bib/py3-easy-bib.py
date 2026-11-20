@@ -276,7 +276,7 @@ def build_bib(mode='normal'):
         f.close()
 
 
-mode = "normal"
+mode = sys.argv[1] # "normal"
 
 if os.path.exists(mode+save_suffix):
     os.remove(mode+save_suffix)

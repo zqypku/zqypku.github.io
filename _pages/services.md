@@ -7,28 +7,32 @@ nav: true
 nav_order: 2
 ---
 
-#### teaching assistant
+#### teaching
 
+All courses are graduate courses at Saarland University.
+
+- Winter term 2026/2027
+  - AI Safety (Seminar, Head TA)
 - Summer term 2026
-  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude26/) (Graduate, Saarland University)
+  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude26/) (Seminar, Head TA)
 - Winter term 2025/2026
-  - [AI Safety](https://cms.cispa.saarland/ais25/) (Graduate, Saarland University)
+  - [AI Safety](https://cms.cispa.saarland/ais25/) (Seminar, Head TA) — "Busy Beaver" Best Teaching Award, Saarland University
 - Summer term 2025
-  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude25/) (Graduate, Saarland University)
+  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude25/) (Seminar, Head TA)
 - Winter term 2024/2025
-  - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2425/) (Graduate, Saarland University)
+  - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2425/) (TA)
 - Summer term 2024
-  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude2024/) (Graduate, Saarland University)
-  - [Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2024/) (Graduate, Saarland University)
+  - [Data-driven Understanding of the Disinformation Epidemic](https://cms.cispa.saarland/dude2024/) (Seminar, TA)
+  - [Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2024/) (Lecture, TA)
 - Winter term 2023/2024
-  - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (Graduate, Saarland University)
+  - [Privacy of Machine Learning](https://cms.cispa.saarland/pml2324/) (TA)
 
 #### peer review
 
-- Program Commitee Member:
-  - Conferences: [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/), [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+- Program Committee Member:
+  - Conferences: [SaTML 2027](https://satml.org/), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/), [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), [AAAI 2024](https://aaai.org/Conferences/AAAI-24/), [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
   - Workshops: [NeurIPS CaLM 2024](https://calm-workshop-2024.github.io/), [NeurIPS AFME 2024](https://www.afciworkshop.org/)
-- Artifact Evaluation Commitee Member:
+- Artifact Evaluation Committee Member:
   - Conferences: [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26), [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)
 - Invited Reviewer:
   - Conferences: [ICLR 2026](https://iclr.cc/Conferences/2026), [SIGKDD 2026](https://kdd2026.kdd.org/), [NeurIPS 2025](https://neurips.cc/Conferences/2025), [ICCV 2025](https://iccv.thecvf.com/), [ARR](https://aclrollingreview.org/), [SIGKDD 2025](https://kdd2025.kdd.org/), [NLPCC 2023](http://tcci.ccf.org.cn/conference/2023/), [CSAE 2022](http://www.csaeconf.org/), [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/)

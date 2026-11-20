@@ -34,17 +34,25 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is Ziqing Yang, a fourth-year PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://cispa.de/en/people/backes) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/).
-My research focuses on trustworthy machine learning, with a particular interest in exploring the security and safety risks in generative AIs and agents.
+This is Ziqing Yang, a final-year Ph.D. student (expected early 2027) at [CISPA Helmholtz Center for Information Security](https://cispa.de/), co-advised by [Prof. Michael Backes](https://www.michaelbackes.org/en) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/).
+My research focuses on the security and trustworthiness of foundation model ecosystems, with a particular interest in generative AI and agents.
 
 Before that, I completed a B.Sc. in Intelligence Science and Technology and a second major in Chinese Language and Literature (B.A.) at [Peking University](http://english.pku.edu.cn/).
 Advised by [Prof. Ming Zhang](https://scholar.google.com/citations?user=LbzoQBsAAAAJ), I focused on knowledge representation and graph analysis.
 During my undergraduate, I was also a research intern at [UCLA](https://www.ucla.edu/) under the supervision of [Prof. Yizhou Sun](https://web.cs.ucla.edu/~yzsun/), working on the combination of knowledge graphs and logical rules.
 
+<div class="job-market-highlight">
+  <p>I am on the <strong>academic job market</strong> for 2026–2027, feel free to reach out!</p>
+</div>
+
+<hr class="section-divider">
+
 ### research interests
 
-I am interested in the intersection of machine learning and security, especially using a mathematical methodology to understand and address the problem.
+I study the security of AI systems beyond the model boundary, across their lifecycle:
 
-- Trustworthy machine learning (safety, privacy, and security)
-- Generative models and agents
-- Graph analysis
+- **What AI systems inherit**: vulnerabilities from the AI supply chain, e.g., data poisoning and backdoors
+- **What AI systems hide**: black-box auditing of hidden components, e.g., model origin and guardrails
+- **What AI systems cause**: security and societal risks in deployment, e.g., jailbreaks and harmful content
+
+My long-term goal is to establish the foundations for continual assurance of increasingly autonomous and evolving AI systems.
