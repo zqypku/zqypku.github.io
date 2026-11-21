@@ -1,1 +1,1 @@
-key$title$author$year$url
+key$title$author$year$url$note
