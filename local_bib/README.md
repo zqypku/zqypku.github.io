@@ -22,6 +22,15 @@ For other files, you can:
 
 You can use `diff normal_generated.bib normal_generated_py3.bib` to check the difference between two files.
 
+## Optional columns
+
+- `note`: in every .txt file. Written as `note = {...}` after `year`. LaTeX is kept as is, e.g. `\textit{\textbf{Best Paper Nomination}}`.
+- `ccf`: in conference.txt, journal.txt and arxiv.txt. The CCF rank (A / B / C / N), written as `usera = {...}`.
+- `award_name`: in conference.txt, only used by `py3-easy-bib-homepage.py` (award badge on the homepage).
+- `unpublished.txt` (columns `author$title$year$note`): manuscripts without a venue, e.g. under review. Written as `@unpublished` entries by `py3-easy-bib.py`; the homepage script ignores it.
+
+Empty cells are skipped. A missing column is treated as empty.
+
 ## Results
 
 > @inproceedings{P18,  

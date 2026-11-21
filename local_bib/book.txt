@@ -1,1 +1,1 @@
-author$title$publisher$year
+author$title$publisher$year$note

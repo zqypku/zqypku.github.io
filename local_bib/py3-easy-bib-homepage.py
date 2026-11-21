@@ -97,6 +97,11 @@ def build_bib(mode='normal'):
         if pd.notna(conference.loc[i, 'slides']):
             f.write("slides = {"+conference.loc[i, 'slides']+"},")
             f.write('\n')
+        if 'award_name' in conference.columns and pd.notna(conference.loc[i, 'award_name']):
+            f.write("award_name = {"+conference.loc[i, 'award_name']+"},")
+            f.write('\n')
+            f.write("award = {"+conference.loc[i, 'award_name']+" at "+conference.loc[i, 'venue']+" "+str(conference.loc[i, 'year'])+"},")
+            f.write('\n')
 
         # year
         f.write("year = {"+str(conference.loc[i, 'year'])+"}")

@@ -1,0 +1,5 @@
+author$title$year$note
+Ziqing Yang and Kewei Cheng and Mingjie Li and Yixin Wu and Yang Zhang$LatentLens: Rethinking Latent Interface in Multi-Agent Systems$2026$Under Review
+Tianze Chang and Ziqing Yang and Yixin Wu and Yang Zhang$PressureOpt: Pressure-Guided Adaptive Token Optimization for LLM Agents Without Auxiliary LLM Calls$2026$Under Review
+Yage Zhang and Yukun Jiang and Ziqing Yang and Yihan Ma and Xinyue Shen and Yang Zhang$Anti-AI in the Wild: From Toxic Discourse to Action$2026$Under Review
+Tianze Chang and Ziqing Yang and Mingjie Li and Yang Zhang$Harmless Words, Hazardous Scenes: Benchmarking Latent Contextual Risk in Robot Manipulation$2026$Under Review
