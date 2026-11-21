@@ -25,15 +25,15 @@ _styles: |
   <div style="text-align: center; margin-bottom: 1em;">
     <strong>Ziqing Yang<sup>1</sup>, Yixin Wu<sup>1</sup>, Rui Wen<sup>2</sup>, Michael Backes<sup>1</sup>, Yang Zhang<sup>1</sup></strong>
   </div>
-  
+
   <div style="text-align: center; margin-bottom: 0.5em;">
     <sup>1</sup>CISPA Helmholtz Center for Information Security
   </div>
-  
+
   <div style="text-align: center; margin-bottom: 1em;">
     <sup>2</sup>Institute of Science Tokyo
   </div>
-  
+
   <div style="text-align: center; margin-top: 1em;">
     {{ page.venue }}
   </div>
